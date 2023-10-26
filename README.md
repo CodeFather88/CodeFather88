@@ -19,7 +19,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Igor!;Node.js+developer+from Rostov-on-Don" width = 100%/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Igor!;developer+from+Rostov-on-Don" width = 100%/>
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
 </h1>
