@@ -26,7 +26,7 @@
 
 
 <div align="center">
-  <img src="https://kms-technology.com/wp-content/uploads/2023/03/iStock-1360927961-1-scaled.jpg" width="100%" style="border-radius: 20px"/>
+  <img src="https://invezz.com/wp-content/uploads/2021/08/75397446-l-1-scaled.jpg" width="100%" style="border-radius: 20px"/>
 </div>
 
 ---
