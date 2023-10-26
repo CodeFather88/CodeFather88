@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif" width="100"/>
+  <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
