@@ -19,9 +19,9 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text" width = 100%/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi, +I'm +Igor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> +;Second+line+of+text" width = 100%/>
   
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
 </h1>
 
 
