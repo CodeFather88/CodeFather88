@@ -26,7 +26,7 @@
 
 
 <div align="center">
-  <img src="https://invezz.com/wp-content/uploads/2021/08/75397446-l-1-scaled.jpg" width="100%" style="border-radius: 20px"/>
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="100%" style="border-radius: 20px"/>
 </div>
 
 ---
