@@ -32,7 +32,7 @@
 ---
 
  <h2>⭐  About Me</h2>
-<img src="https://readme-typing-svg.demolab.com/?lines=I'm+developer+from+Rostov-on-Don" width = 50%/>
+<img src="https://readme-typing-svg.demolab.com/?lines=I'm+developer+from+Rostov-on-Don;I like programming" width = 50%/>
 
 <p>I find Interest in web programming and Internet Technologies, Artificial Intelligence and Information Security</p>
 
