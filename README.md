@@ -115,11 +115,7 @@
 
 ---
 
-<div align="center">
-  <details align="left">
-    
-  </details>
-</div>
+
 
 <div align="center">
   <details align="left">
