@@ -3,9 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-2a0b34?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  
   <a href="https://vk.com/igor_igorek_igor">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" alt="VK Badge" width="64" height="64"/>
   </a>
@@ -14,9 +12,7 @@
   </a>
 </div>
 
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=codefather88&style=flat-square&color=2a0b34" alt="codefather88"/>
-</div>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Igor!;developer+from+Rostov-on-Don" width = 100%/>
