@@ -32,7 +32,7 @@
 ---
 
  <h2>⭐  About Me</h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=fff&background=2A0B34&vCenter=true&width=800&lines=A+passionate+Backend+developer+from+Russia%2C+Rostov-on-Don" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=I'm+developer+from+Rostov-on-Don" width = 50%/>
 
 <p>I find Interest in web programming and Internet Technologies, Artificial Intelligence and Information Security</p>
 
