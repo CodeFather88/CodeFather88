@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-2a0b34?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vk.com/igor_igorek_igor">
-    <img src="https://img.shields.io/badge/VK-2a0b34?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" alt="VK Badge" width="64" height="64"/>
   </a>
   <a href="https://t.me/try17354">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png" alt="Telegram Badge" width="64" height="64"/>
