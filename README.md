@@ -88,7 +88,7 @@
 
 
 <div id="database">
-  <h3>Database :</h3>
+  <h3>Databases :</h3>
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="30" height="30"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
