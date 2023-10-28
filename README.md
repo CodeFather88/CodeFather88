@@ -46,10 +46,11 @@
 
 - 📄 А little about me. I often have to write server applications on node.js. I usually use nest.js or express.js. I am interested in new technologies and development. Passionate about IT, taking into account the latest trends and innovations in the field of programming, I try to balance between novelty, clean code and efficiency.
 
-- ⚡ I consider my strengths are the ability to **speak publicly** and participate in discussions, high **communication skills**, **friendly disposition**, the ability to **work both** in a team and independently, to occupy one of the **managerial roles**, a fairly **high stress resistance and quick recovery**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://vk.com/igor_igorek_igor" title="VK" alt="VK" width="20" height="20"/>
+  by VK <a href="https://vk.com/igor_igorek_igor">Igor Bulanov</a>
   <img src="https://www.svgrepo.com/show/299513/telegram.svg" title="telegram" alt="telegram" width="20" height="20"/>
   by telegram <a href="https://t.me/try17354">@try17354</a>
 </p>
