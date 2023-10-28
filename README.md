@@ -117,15 +117,7 @@
 
 <div align="center">
   <details align="left">
-    <summary><h2>👅  Languages</h2></summary>
-      <p>
-        <img src="https://img.icons8.com/color/256/great-britain-circular.png" title="English" alt="eng" width="40" height="40"/>
-        ◉◉◉☉☉ ( Intermediate )
-      </p>
-      <p>
-         <img src="https://img.icons8.com/color/256/germany-circular.png" title="Deutsch" alt="dh" width="40" height="40"/>
-          ◉◉☉☉☉ ( Grundlagen )
-      </p>
+    
   </details>
 </div>
 
